@@ -5,8 +5,8 @@ import requests
 import urllib.parse
 import time
 
-gnews_api_key = '0f5ec9255acc40555bdb8416c43a41d0'
-ai21_api_key = 'UjgFLVzuKMQdaBJUDwmhlgbasiRbaRyt'
+gnews_api_key = 'API KEY'
+ai21_api_key = 'API KEY'
 
 # Streamlit app header
 st.title('News Search and Sentiment Analysis')
